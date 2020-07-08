@@ -1,1 +1,1 @@
-# Lionfish
+# Lionfish genome assebly scripts and resources
